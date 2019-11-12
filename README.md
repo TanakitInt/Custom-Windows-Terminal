@@ -1,2 +1,2 @@
 # Custom-Windows-Terminal
-My custom windows terminal
+My custom Windows terminal
