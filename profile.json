@@ -266,7 +266,7 @@
             "backgroundImageOpacity" : 0.16,
             "backgroundImageStretchMode" : "uniformToFill",
             "closeOnExit" : true,
-            "colorScheme" : "Campbell",
+            "colorScheme" : "One Half Dark",
             "commandline" : "cmd.exe",
             "cursorColor" : "#FFFFFF",
             "cursorShape" : "bar",
@@ -305,7 +305,7 @@
         {
             "acrylicOpacity" : 0.8,
             "closeOnExit" : true,
-            "colorScheme" : "Campbell",
+            "colorScheme" : "One Half Dark",
             "commandline" : "cmd.exe",
             "cursorColor" : "#FFFFFF",
             "cursorShape" : "bar",
